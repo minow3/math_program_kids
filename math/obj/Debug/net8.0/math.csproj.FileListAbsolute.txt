@@ -1,0 +1,14 @@
+C:\Users\minow\Desktop\math_program_kids\math\bin\Debug\net8.0\math.exe
+C:\Users\minow\Desktop\math_program_kids\math\bin\Debug\net8.0\math.deps.json
+C:\Users\minow\Desktop\math_program_kids\math\bin\Debug\net8.0\math.runtimeconfig.json
+C:\Users\minow\Desktop\math_program_kids\math\bin\Debug\net8.0\math.dll
+C:\Users\minow\Desktop\math_program_kids\math\bin\Debug\net8.0\math.pdb
+C:\Users\minow\Desktop\math_program_kids\math\obj\Debug\net8.0\math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minow\Desktop\math_program_kids\math\obj\Debug\net8.0\math.AssemblyInfoInputs.cache
+C:\Users\minow\Desktop\math_program_kids\math\obj\Debug\net8.0\math.AssemblyInfo.cs
+C:\Users\minow\Desktop\math_program_kids\math\obj\Debug\net8.0\math.csproj.CoreCompileInputs.cache
+C:\Users\minow\Desktop\math_program_kids\math\obj\Debug\net8.0\math.dll
+C:\Users\minow\Desktop\math_program_kids\math\obj\Debug\net8.0\refint\math.dll
+C:\Users\minow\Desktop\math_program_kids\math\obj\Debug\net8.0\math.pdb
+C:\Users\minow\Desktop\math_program_kids\math\obj\Debug\net8.0\math.genruntimeconfig.cache
+C:\Users\minow\Desktop\math_program_kids\math\obj\Debug\net8.0\ref\math.dll
